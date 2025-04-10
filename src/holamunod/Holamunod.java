@@ -11,6 +11,15 @@ public class Holamunod {
     public static void main(String[] args) {
         System.out.println("Hola munod");    
         System.out.println("A");
+        int a = 0;
+        
+        System.out.println("A");
+          System.out.println("A");  System.out.println("A");
+            System.out.println("A");  System.out.println("A");
+            
+            
+          
+          
     }
     
 }
